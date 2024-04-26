@@ -1,0 +1,238 @@
+[
+  {
+    "id": 1,
+    "name": "Cable Pulldown Pro Lat Bar Back",
+    "image_name": "cable_pulldown_pro_lat_bar_back",
+    "is_recommended": true,
+    "is_special": true,
+    "order": 2,
+    "description": "4 X 12",
+    "shredded": "6 X 12"
+  },
+  {
+    "id": 2,
+    "name": "Cable Reverse Grip Straight Back Seated High Row Back",
+    "image_name": "cable_reverse_grip_straight_back_seated_high_row_back",
+    "is_recommended": true,
+    "is_special": true,
+    "order": 4,
+    "description": "4 X 12",
+    "shredded": "6 X 12"
+  },
+  {
+    "id": 3,
+    "name": "Barbell Bent Overrow Back Fix",
+    "image_name": "barbell_bent_overrow_back_fix",
+    "is_recommended": true,
+    "is_special": true,
+    "order": 5,
+    "description": "4 X 12",
+    "shredded": "6 X 12"
+  },
+  {
+    "id": 4,
+    "name": "Barbell Reverse Grip Bent Over Row Back Fix",
+    "image_name": "barbell_reverse_grip_bent_over_row_back_fix",
+    "is_recommended": true,
+    "is_special": true,
+    "order": 6,
+    "description": "4 X 12",
+    "shredded": "6 X 12"
+  },
+  {
+    "id": 5,
+    "name": "Dumbbell Bent Over Row Back",
+    "image_name": "dumbbell_bent_over_row_back_back",
+    "is_recommended": true,
+    "is_special": true,
+    "order": 3,
+    "description": "4 X 12",
+    "shredded": "6 X 12"
+  },
+  {
+    "id": 6,
+    "name": "Dumbbell Bent Over Row Back Fix",
+    "image_name": "dumbbell_bent_over_row_back_fix",
+    "is_recommended": true
+  },
+  {
+    "id": 7,
+    "name": "Cable Straight Back Seated Row Back",
+    "image_name": "cable_straight_back_seated_row_back",
+    "is_recommended": true,
+    "is_special": true,
+    "order": 7,
+    "description": "4 X 12",
+    "shredded": "6 X 12"
+  },
+  {
+    "id": 8,
+    "name": "Lever Bent Over Row Plate Loaded Back",
+    "image_name": "lever_bent_over_row_plate_loaded_back",
+    "is_recommended": true,
+    "is_special": true,
+    "order": 8,
+    "description": "4 X 12",
+    "shredded": "6 X 12"
+  },
+  {
+    "id": 9,
+    "name": "Assisted Pull Up Back",
+    "image_name": "assisted_pull_up_back",
+    "is_recommended": true
+  },
+  {
+    "id": 10,
+    "name": "Weighted Pull Up Back",
+    "image_name": "weighted_pull_up_back",
+    "is_recommended": true,
+    "is_special": true,
+    "order": 1,
+    "description": "5 X 12",
+    "shredded": "6 X 12"
+  },
+  {
+    "id": 1,
+    "name": "Band Assisted Pull Up Back",
+    "image_name": "band_assisted_pull_up_back",
+    "is_recommended": false
+  },
+  {
+    "id": 1,
+    "name": "Barbell Incline Row Rack",
+    "image_name": "barbell_incline_row_rack",
+    "is_recommended": false
+  },
+  {
+    "id": 1,
+    "name": "Cable Lateral Pulldown With V Bar Back",
+    "image_name": "cable_lateral_pulldown_with_v_bar_back",
+    "is_recommended": false
+  },
+  {
+    "id": 1,
+    "name": "Cable Palm Rotational Row Back",
+    "image_name": "cable_palm_rotational_row_back",
+    "is_recommended": false
+  },
+  {
+    "id": 1,
+    "name": "Cable Standing Twist Row V Bar Back",
+    "image_name": "cable_standing_twist_row_v_bar_back",
+    "is_recommended": false
+  },
+  {
+    "id": 1,
+    "name": "Cable Straight Arm Pulldown With Rope Back",
+    "image_name": "cable_straight_arm_pulldown_with_rope_back",
+    "is_recommended": false
+  },
+  {
+    "id": 1,
+    "name": "Cable Thibaudeau Kayak Row Back",
+    "image_name": "cable_thibaudeau_kayak_row_back",
+    "is_recommended": false
+  },
+  {
+    "id": 1,
+    "name": "Chin Up Back",
+    "image_name": "chin_up_back",
+    "is_recommended": false
+  },
+  {
+    "id": 1,
+    "name": "Dumbbell Deadlift Back",
+    "image_name": "dumbbell_deadlift_back",
+    "is_recommended": false
+  },
+  {
+    "id": 1,
+    "name": "Inverted Row Back Fix",
+    "image_name": "inverted_row_back_fix",
+    "is_recommended": false
+  },
+  {
+    "id": 1,
+    "name": "Inverted Row On Bench Back",
+    "image_name": "inverted_row_on_bench_back",
+    "is_recommended": false
+  },
+  {
+    "id": 1,
+    "name": "Inverted Row Rent Knees Back",
+    "image_name": "inverted_row_rent_knees_back",
+    "is_recommended": false
+  },
+  {
+    "id": 1,
+    "name": "Inverted Row With Straps Back",
+    "image_name": "inverted_row_with_straps_back",
+    "is_recommended": false
+  },
+  {
+    "id": 1,
+    "name": "Squat Back Wrong Right",
+    "image_name": "squat_back_wrong_right",
+    "is_recommended": false
+  },
+  {
+    "id": 1,
+    "name": "Degree Hyperextension Arms In Front Of Chest Back",
+    "image_name": "degree_hyperextension_arms_in_front_of_chest_back",
+    "is_recommended": false
+  },
+  {
+    "id": 1,
+    "name": "Cable Cross over Lateral Pulldown",
+    "image_name": "cable_cross_over_lateral_pulldown",
+    "is_recommended": false
+  },
+  {
+    "id": 1,
+    "name": "Cable High Row (kneeling, rope attachment)",
+    "image_name": "cable_high_row_kneeling_rope_attachment",
+    "is_recommended": false
+  },
+  {
+    "id": 1,
+    "name": "Cable Push down (straight arm) II",
+    "image_name": "cable_pushdown_straight_arm",
+    "is_recommended": false
+  },
+  {
+    "id": 1,
+    "name": "Lever T bar Row (plate loaded)",
+    "image_name": "lever_t_bar_row_plate_loaded",
+    "is_recommended": false
+  },
+  {
+    "id": 1,
+    "name": "Pull up",
+    "image_name": "pull_up",
+    "is_recommended": false
+  },
+  {
+    "id": 1,
+    "name": "Standing Lateral Stretch",
+    "image_name": "standing_lateral_stretch",
+    "is_recommended": false
+  },
+  {
+    "id": 1,
+    "name": "Cable Standing Lat Pushdown (rope equipment)",
+    "image_name": "cable_standing_lat_pushdown_rope_equipment",
+    "is_recommended": false
+  },
+  {
+    "id": 1,
+    "name": "Hangback Bar Stretch",
+    "image_name": "hangback_bar_stretch",
+    "is_recommended": false
+  },
+  {
+    "id": 1,
+    "name": "Cable Standing Close Grip Row",
+    "image_name": "cable_standing_close_grip_row",
+    "is_recommended": false
+  }
+]

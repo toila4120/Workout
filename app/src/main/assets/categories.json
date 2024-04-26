@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Cardio",
+    "image_name": "https://cdn.hellobacsi.com/wp-content/uploads/2017/09/baitapcardio19.png",
+    "json_name": "cardio_file.json"
+  },
+  {
+    "id": 2,
+    "name": "Chest",
+    "image_name": "https://www.mensjournal.com/.image/c_limit%2Ccs_srgb%2Cq_auto:good%2Cw_700/MTk2MTM3Mjk3MDkwNDU1MDQ1/9-cable-crossover.webp",
+    "json_name": "chest_file.json"
+  },
+  {
+    "id": 3,
+    "name": "Back",
+    "image_name": "https://www.thethaodaiviet.vn/images/upload/Image/cach-tap-hit-xa-don-dung-cach-tai-nha-nhie-1601274266985.jpg",
+    "json_name": "back_file.json"
+  },
+  {
+    "id": 4,
+    "name": "Shoulders",
+    "image_name": "https://dungcutheduc.vn/images/dumbbell-shoulder-press.jpg",
+    "json_name": "shoulders_file.json"
+  },
+  {
+    "id": 5,
+    "name": "Biceps",
+    "image_name": "https://hdfitness.vn/wp-content/uploads/2022/06/hammer-curls-tot-cho-co-tay-2-min-1024x1024.jpg",
+    "json_name": "biceps_file.json"
+  },
+  {
+    "id": 6,
+    "name": "Triceps",
+    "image_name": "https://www.elleman.vn/wp-content/uploads/2022/02/18/211771/tap-luyen-co-bap-tay-sai-cach-Getty-Images-elle-man-1.jpg",
+    "json_name": "triceps_file.json"
+  },
+  {
+    "id": 7,
+    "name": "Forearm",
+    "image_name": "https://cdn.thehinh.com/2018/07/lich-tap-gym-cho-nguoi-moi-bat-dau-1.jpg",
+    "json_name": "forearm_file.json"
+  },
+  {
+    "id": 8,
+    "name": "Thigh",
+    "image_name": "https://hdfitness.vn/wp-content/uploads/2022/03/cac-bai-tap-chan-cho-nam-Clean-min-1-1-1024x768.jpg",
+    "json_name": "thigh_file.json"
+  },
+  {
+    "id": 9,
+    "name": "Hips",
+    "image_name": "https://i.pinimg.com/564x/c6/7e/7a/c67e7a10541880cf19f7b9baac6aca30.jpg",
+    "json_name": "hips_file.json"
+  },
+  {
+    "id": 10,
+    "name": "Calves",
+    "image_name": "https://images2.thanhnien.vn/Uploaded/ngocquy/2022_03_14/1-tap-dui-shutterstock-7679.jpg",
+    "json_name": "calves_file.json"
+  },
+  {
+    "id": 11,
+    "name": "Waist",
+    "image_name": "https://media.istockphoto.com/id/1440701083/vi/anh/th%E1%BB%83-d%E1%BB%A5c-th%E1%BB%83-thao-v%C3%A0-v%C3%B5-s%C4%A9-quy%E1%BB%81n-anh-v%E1%BB%9Bi-%C4%91%E1%BB%99ng-l%E1%BB%B1c-t%E1%BA%A7m-nh%C3%ACn-ho%E1%BA%B7c-m%E1%BB%A5c-ti%C3%AAu-t%E1%BA%ADp-th%E1%BB%83-d%E1%BB%A5c-s%E1%BB%A9c-kh%E1%BB%8Fe-v%C3%A0.jpg?s=612x612&w=0&k=20&c=EXtz36Nzgb4q1DyKzvyrUnAhIcsdwF7azGQx3-wzW10=",
+    "json_name": "waist_file.json"
+  },
+  {
+    "id": 12,
+    "name": "Neck",
+    "image_name": "https://media.istockphoto.com/id/1168076425/photo/woman-exercising-at-fitness-training-session.jpg?s=612x612&w=0&k=20&c=PlUdzPv3zcAL-MqFP2bkIEa48OJErCaXOREX4wdUFCk=",
+    "json_name": "neck_file.json"
+  }
+]

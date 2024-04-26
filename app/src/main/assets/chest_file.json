@@ -1,0 +1,238 @@
+[
+  {
+    "id": 1,
+    "name": "Barbell Bench Press Chest",
+    "image_name": "barbell_bench_press_chest",
+    "is_recommended": true,
+    "is_special": true,
+    "order": 1,
+    "description": "5 X 12",
+    "shredded": "6 X 12"
+  },
+  {
+    "id": 2,
+    "name": "Dumbbell Bench Press Chest",
+    "image_name": "dumbbell_bench_press_chest",
+    "is_recommended": true
+  },
+  {
+    "id": 3,
+    "name": "Barbell Incline Bench Press Chest",
+    "image_name": "barbell_incline_bench_press_chest",
+    "is_recommended": true,
+    "is_special": true,
+    "order": 5,
+    "description": "4 X 12",
+    "shredded": "6 X 12"
+  },
+  {
+    "id": 4,
+    "name": "Barbell Decline Bench Press Chest",
+    "image_name": "barbell_decline_bench_press_chest",
+    "is_recommended": true
+  },
+  {
+    "id": 5,
+    "name": "Lever Chest Press VERSION 2 Chest",
+    "image_name": "lever_chest_press_version_chest",
+    "is_recommended": true,
+    "is_special": true,
+    "order": 2,
+    "description": "4 X 12",
+    "shredded": "6 X 12"
+  },
+  {
+    "id": 6,
+    "name": "Dumbbell Incline Hammer Press Chest",
+    "image_name": "dumbbell_incline_hammer_press_chest",
+    "is_recommended": true,
+    "is_special": true,
+    "order": 3,
+    "description": "4 X 12",
+    "shredded": "6 X 12"
+  },
+  {
+    "id": 7,
+    "name": "Dumbbell Incline Fly Chest FIX",
+    "image_name": "dumbbell_incline_fly_chest_fix",
+    "is_recommended": true
+  },
+  {
+    "id": 8,
+    "name": "Cable Low Fly Chest",
+    "image_name": "cable_low_fly_chest",
+    "is_recommended": true
+  },
+  {
+    "id": 9,
+    "name": "Cable Middle Fly Chest",
+    "image_name": "cable_middle_fly_chest",
+    "is_recommended": true,
+    "is_special": true,
+    "order": 6,
+    "description": "3 X 12",
+    "shredded": "6 X 12"
+  },
+  {
+    "id": 10,
+    "name": "Cable Standing Up Straight Crossovers Chest",
+    "image_name": "cable_standing_up_straight_crossovers_chest",
+    "is_recommended": true
+  },
+  {
+    "id": 11,
+    "name": "Lever Seated Fly Chest",
+    "image_name": "lever_seated_fly_chest",
+    "is_recommended": true,
+    "is_special": true,
+    "order": 4,
+    "description": "4 X 12",
+    "shredded": "6 X 12"
+  },
+  {
+    "id": 12,
+    "name": "Assisted Chest Dip kneeling Chest",
+    "image_name": "assisted_chest_dip_kneeling_chest",
+    "is_recommended": false
+  },
+  {
+    "id": 13,
+    "name": "Cable Incline Fly Chest",
+    "image_name": "cable_incline_fly_chest",
+    "is_recommended": false
+  },
+  {
+    "id": 14,
+    "name": "Chest Dip Chest",
+    "image_name": "chest_dip_chest",
+    "is_recommended": false,
+    "is_special": true,
+    "order": 8,
+    "description": "3 X 12",
+    "shredded": "6 X 12"
+  },
+  {
+    "id": 15,
+    "name": "Dumbbell Decline Bench Press Chest",
+    "image_name": "dumbbell_decline_bench_press_chest",
+    "is_recommended": false
+  },
+  {
+    "id": 16,
+    "name": "Dumbbell Decline Fly Chest",
+    "image_name": "dumbbell_decline_fly_chest",
+    "is_recommended": false,
+    "is_special": true,
+    "order": 7,
+    "description": "4 X 12",
+    "shredded": "6 X 12"
+  },
+  {
+    "id": 17,
+    "name": "Dumbbell Lying Hammer Press Chest",
+    "image_name": "dumbbell_lying_hammer_press_chest",
+    "is_recommended": false
+  },
+  {
+    "id": 18,
+    "name": "Lever Incline Chest Press Chest",
+    "image_name": "lever_incline_chest_press_chest",
+    "is_recommended": false
+  },
+  {
+    "id": 19,
+    "name": "Smith Bench Press Chest",
+    "image_name": "smith_bench_press_chest",
+    "is_recommended": false
+  },
+  {
+    "id": 20,
+    "name": "Smith Decline Bench Press Chest",
+    "image_name": "smith_decline_bench_press_chest",
+    "is_recommended": false
+  },
+  {
+    "id": 21,
+    "name": "Smith Incline Bench Press Chest",
+    "image_name": "smith_incline_bench_press_chest",
+    "is_recommended": false
+  },
+  {
+    "id": 21,
+    "name": "Dumbbell Incline Bench Press",
+    "image_name": "dumbbell_incline_bench_press",
+    "is_recommended": false
+  },
+  {
+    "id": 21,
+    "name": "Floor Fly (with barbell)",
+    "image_name": "floor_fly_with_barbell",
+    "is_recommended": false
+  },
+  {
+    "id": 21,
+    "name": "Lever Chest Press (plate loaded)",
+    "image_name": "lever_chest_press_plate_loaded",
+    "is_recommended": false
+  },
+  {
+    "id": 21,
+    "name": "Push up m",
+    "image_name": "push_up_m",
+    "is_recommended": false
+  },
+  {
+    "id": 21,
+    "name": "Weighted Svend Press",
+    "image_name": "weighted_svend_press",
+    "is_recommended": false
+  },
+  {
+    "id": 21,
+    "name": "Lever Pec Deck Fly",
+    "image_name": "lever_pec_deck_fly",
+    "is_recommended": false
+  },
+  {
+    "id": 21,
+    "name": "Lever Lying Chest Press (plate loaded)",
+    "image_name": "lever_lying_chest_press_plate_loaded",
+    "is_recommended": false
+  },
+  {
+    "id": 21,
+    "name": "Barbell Decline Pullover",
+    "image_name": "barbell_decline_pullover",
+    "is_recommended": false
+  },
+  {
+    "id": 21,
+    "name": "Deep Push Up",
+    "image_name": "deep_push_up",
+    "is_recommended": false
+  },
+  {
+    "id": 21,
+    "name": "Machine Inner Chest Press",
+    "image_name": "machine_inner_chest_press",
+    "is_recommended": false
+  },
+  {
+    "id": 21,
+    "name": "Svend Bench Press",
+    "image_name": "svend_bench_press",
+    "is_recommended": false
+  },
+  {
+    "id": 21,
+    "name": "Incline Push Up (on bench)",
+    "image_name": "incline_push_up_on_bench",
+    "is_recommended": false
+  },
+  {
+    "id": 21,
+    "name": "Cable Low Chest Press",
+    "image_name": "cable_low_chest_press",
+    "is_recommended": false
+  }
+]

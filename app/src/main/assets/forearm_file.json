@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "name": "Back Barbell Curl",
+    "image_name": "back_barbell_curl",
+    "is_recommended": true,
+    "is_special": true,
+    "order": 1,
+    "description": "4 X 12",
+    "shredded": "6 X 12"
+  },
+  {
+    "id": 2,
+    "name": "Palms Down From Barbell Curl",
+    "image_name": "palms_down_from_barbell_curl",
+    "is_recommended": false,
+    "is_special": false,
+    "order": 2,
+    "description": "4 X 12",
+    "shredded": "6 X 12"
+  },
+  {
+    "id": 3,
+    "name": "Palms Up Barbell Wrist Curl",
+    "image_name": "palms_up_barbell_wrist_curl",
+    "is_recommended": true,
+    "is_special": true,
+    "order": 3,
+    "description": "4 X 12",
+    "shredded": "6 X 12"
+  },
+  {
+    "id": 4,
+    "name": "Palms Up Barbell Wrist Curl 2",
+    "image_name": "palms_up_barbell_wrist_curl_2",
+    "is_recommended": false,
+    "is_special": false,
+    "order": 4,
+    "description": "4 X 12",
+    "shredded": "6 X 12"
+  },
+  {
+    "id": 5,
+    "name": "Palms Up Dumbbell Wrist Curl",
+    "image_name": "palms_up_dumbbell_wrist_curl",
+    "is_recommended": false,
+    "is_special": false,
+    "order": 5,
+    "description": "4 X 12",
+    "shredded": "6 X 12"
+  },
+  {
+    "id": 6,
+    "name": "Cable Hammer Curl (with rope attachment)",
+    "image_name": "cable_hammer_curl_with_rope_attachment",
+    "is_recommended": true,
+    "is_special": true,
+    "order": 6,
+    "description": "4 X 12",
+    "shredded": "6 X 12"
+  },
+  {
+    "id": 7,
+    "name": "Dumbbell Over Bench Revers Wrist Curl",
+    "image_name": "dumbbell_over_bench_revers_wrist_curl",
+    "is_recommended": false,
+    "is_special": false,
+    "order": 7,
+    "description": "4 X 12",
+    "shredded": "6 X 12"
+  },
+  {
+    "id": 8,
+    "name": "EZ Barbell Reverse Grip Curl",
+    "image_name": "ez_barbell_reverse_grip_curl",
+    "is_recommended": true,
+    "is_special": true,
+    "order": 8,
+    "description": "4 X 12",
+    "shredded": "6 X 12"
+  },
+  {
+    "id": 9,
+    "name": "Olympic Barbell Hammer Curl",
+    "image_name": "olympic_barbell_hammer_curl",
+    "is_recommended": true,
+    "is_special": true,
+    "order": 9,
+    "description": "4 X 12",
+    "shredded": "6 X 12"
+  },
+  {
+    "id": 10,
+    "name": "Cable Curl with Multipurpose V bar",
+    "image_name": "cable_curl_with_multipurpose_v_bar",
+    "is_recommended": false,
+    "is_special": false,
+    "order": 10,
+    "description": "4 X 12",
+    "shredded": "6 X 12"
+  }
+]

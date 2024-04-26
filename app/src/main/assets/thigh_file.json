@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "name": "Squat m",
+    "image_name": "squat_m",
+    "is_recommended": true,
+    "is_special": true,
+    "order": 1,
+    "description": "4 X 12",
+    "shredded": "6 X 12"
+  },
+  {
+    "id": 2,
+    "name": "Lever Seated Squat",
+    "image_name": "lever_seated_squat",
+    "is_recommended": false,
+    "is_special": false,
+    "order": 2,
+    "description": "4 X 12",
+    "shredded": "6 X 12"
+  },
+  {
+    "id": 3,
+    "name": "Sled Full Hack Squat",
+    "image_name": "sled_full_hack_squat",
+    "is_recommended": false,
+    "is_special": false,
+    "order": 3,
+    "description": "4 X 12",
+    "shredded": "6 X 12"
+  },
+  {
+    "id": 4,
+    "name": "Lever Horizontal Leg Press",
+    "image_name": "lever_horizontal_leg_press",
+    "is_recommended": false,
+    "is_special": false,
+    "order": 4,
+    "description": "4 X 12",
+    "shredded": "6 X 12"
+  },
+  {
+    "id": 5,
+    "name": "Dumbbell Goblet 2 sec Hold Squat",
+    "image_name": "dumbbell_goblet_two_sec_hold_squat",
+    "is_recommended": true,
+    "is_special": true,
+    "order": 5,
+    "description": "4 X 12",
+    "shredded": "6 X 12"
+  },
+  {
+    "id": 6,
+    "name": "Dumbbell Sumo Squat",
+    "image_name": "dumbbell_sumo_squat",
+    "is_recommended": false,
+    "is_special": false,
+    "order": 6,
+    "description": "4 X 12",
+    "shredded": "6 X 12"
+  },
+  {
+    "id": 7,
+    "name": "Barbell Anderson Squat",
+    "image_name": "barbell_anderson_squat",
+    "is_recommended": true,
+    "is_special": true,
+    "order": 7,
+    "description": "4 X 12",
+    "shredded": "6 X 12"
+  },
+  {
+    "id": 8,
+    "name": "Barbell Rear Lunge Thighs",
+    "image_name": "barbell_rear_lunge_thighs",
+    "is_recommended": true,
+    "is_special": false,
+    "order": 8,
+    "description": "4 X 12",
+    "shredded": "6 X 12"
+  },
+  {
+    "id": 9,
+    "name": "Barbell Clean Grip Front Squat Thighs",
+    "image_name": "barbell_clean_grip_front_squat_thighs",
+    "is_recommended": false,
+    "is_special": false,
+    "order": 9,
+    "description": "4 X 12",
+    "shredded": "6 X 12"
+  },
+  {
+    "id": 10,
+    "name": "Sled Leg Press",
+    "image_name": "sled_leg_press_hips",
+    "is_recommended": true,
+    "is_special": true,
+    "order": 10,
+    "description": "4 X 12",
+    "shredded": "6 X 12"
+  },
+  {
+    "id": 11,
+    "name": "Smith Split Squat Thighs FIX",
+    "image_name": "smith_split_squat_thighs_fix",
+    "is_recommended": false,
+    "is_special": false,
+    "order": 11,
+    "description": "4 X 12",
+    "shredded": "6 X 12"
+  },
+  {
+    "id": 12,
+    "name": "Lever Leg Extension Thighs",
+    "image_name": "lever_leg_extension_thighs",
+    "is_recommended": true,
+    "is_special": true,
+    "order": 12,
+    "description": "4 X 12",
+    "shredded": "6 X 12"
+  },
+  {
+    "id": 13,
+    "name": "Barbell Straight Leg Deadlift Thighs",
+    "image_name": "barbell_straight_leg_deadlift_thighs",
+    "is_recommended": true,
+    "is_special": true,
+    "order": 13,
+    "description": "4 X 12",
+    "shredded": "6 X 12"
+  },
+  {
+    "id": 14,
+    "name": "Trap Bar Deadlift Thighs",
+    "image_name": "trap_bar_deadlift_thighs",
+    "is_recommended": false,
+    "is_special": false,
+    "order": 14,
+    "description": "4 X 12",
+    "shredded": "6 X 12"
+  },
+  {
+    "id": 15,
+    "name": "Lever Lying Leg Curl Thighs",
+    "image_name": "lever_lying_leg_curl_thighs",
+    "is_recommended": true,
+    "is_special": true,
+    "order": 15,
+    "description": "4 X 12",
+    "shredded": "6 X 12"
+  },
+  {
+    "id": 16,
+    "name": "Barbell Bench Front Squat thighs",
+    "image_name": "barbell_bench_front_squat_thighs",
+    "is_recommended": false,
+    "is_special": false,
+    "order": 16,
+    "description": "4 X 12",
+    "shredded": "6 X 12"
+  },
+  {
+    "id": 17,
+    "name": "Barbell Lunge Thighs",
+    "image_name": "barbell_lunge_thighs",
+    "is_recommended": false,
+    "is_special": false,
+    "order": 17,
+    "description": "4 X 12",
+    "shredded": "6 X 12"
+  },
+  {
+    "id": 18,
+    "name": "Barbell One Leg Squat thighs",
+    "image_name": "barbell_one_leg_squat_thighs",
+    "is_recommended": false,
+    "is_special": false,
+    "order": 18,
+    "description": "4 X 12",
+    "shredded": "6 X 12"
+  },
+  {
+    "id": 19,
+    "name": "Barbell Full Squat Side POV Thighs",
+    "image_name": "barbell_full_squat_side_pov_thighs",
+    "is_recommended": false,
+    "is_special": false,
+    "order": 19,
+    "description": "4 X 12",
+    "shredded": "6 X 12"
+  },
+  {
+    "id": 20,
+    "name": "Inverse Leg Curl on pull up cable machine Thighs",
+    "image_name": "inverse_leg_curl_on_pull_up_cable_machine_thighs",
+    "is_recommended": false,
+    "is_special": false,
+    "order": 20,
+    "description": "4 X 12",
+    "shredded": "6 X 12"
+  },
+  {
+    "id": 21,
+    "name": "Smith Front Squat Clean Grip Thighs",
+    "image_name": "smith_front_squat_clean_grip_thighs",
+    "is_recommended": false,
+    "is_special": false,
+    "order": 21,
+    "description": "4 X 12",
+    "shredded": "6 X 12"
+  },
+  {
+    "id": 22,
+    "name": "Smith Low Bar Squat Thighs",
+    "image_name": "smith_low_bar_squat_thighs",
+    "is_recommended": false,
+    "is_special": false,
+    "order": 22,
+    "description": "4 X 12",
+    "shredded": "6 X 12"
+  },
+  {
+    "id": 23,
+    "name": "Split Squats Thighs",
+    "image_name": "split_squats_thighs",
+    "is_recommended": true,
+    "is_special": true,
+    "order": 23,
+    "description": "4 X 12",
+    "shredded": "6 X 12"
+  },
+  {
+    "id": 24,
+    "name": "Barbell Split Squat female Thighs",
+    "image_name": "barbell_split_squat_female_thighs",
+    "is_recommended": false,
+    "is_special": false,
+    "order": 24,
+    "description": "4 X 12",
+    "shredded": "6 X 12"
+  },
+  {
+    "id": 25,
+    "name": "Dumbbell Bench Squat female Thighs",
+    "image_name": "dumbbell_bench_squat_female_thighs",
+    "is_recommended": false,
+    "is_special": false,
+    "order": 25,
+    "description": "4 X 12",
+    "shredded": "6 X 12"
+  },
+  {
+    "id": 26,
+    "name": "Dumbbell Rear Lunge female Thighs",
+    "image_name": "dumbbell_rear_lunge_female_thighs",
+    "is_recommended": false,
+    "is_special": false,
+    "order": 26,
+    "description": "4 X 12",
+    "shredded": "6 X 12"
+  },
+  {
+    "id": 27,
+    "name": "Dumbbell Bulgarian Split Squat female Thighs",
+    "image_name": "dumbbell_bulgarian_split_squat_female_thighs",
+    "is_recommended": false,
+    "is_special": false,
+    "order": 27,
+    "description": "4 X 12",
+    "shredded": "6 X 12"
+  },
+  {
+    "id": 28,
+    "name": "Dumbbell Goblet Squat female Thighs",
+    "image_name": "dumbbell_goblet_squat_female_thighs",
+    "is_recommended": false,
+    "is_special": false,
+    "order": 28,
+    "description": "4 X 12",
+    "shredded": "6 X 12"
+  },
+  {
+    "id": 29,
+    "name": "Dumbbell Lateral Step Up female Thighs",
+    "image_name": "dumbbell_lateral_step_up_female_thighs",
+    "is_recommended": false,
+    "is_special": false,
+    "order": 29,
+    "description": "4 X 12",
+    "shredded": "6 X 12"
+  },
+  {
+    "id": 30,
+    "name": "Swiss Ball Leg Curl",
+    "image_name": "swiss_ball_leg_curl",
+    "is_recommended": false,
+    "is_special": false,
+    "order": 30,
+    "description": "4 X 12",
+    "shredded": "6 X 12"
+  }
+]

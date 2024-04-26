@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Rotating Neck Stretch",
+    "image_name": "rotating_neck_stretch",
+    "is_recommended": true,
+    "is_special": true,
+    "order": 1,
+    "description": "4 X 12",
+    "shredded": "6 X 12"
+  },
+  {
+    "id": 1,
+    "name": "Neck Circle Stretch",
+    "image_name": "neck_circle_stretch",
+    "is_recommended": true,
+    "is_special": true,
+    "order": 1,
+    "description": "4 X 12",
+    "shredded": "6 X 12"
+  },
+  {
+    "id": 1,
+    "name": "Seated Neck Stretch",
+    "image_name": "seated_neck_stretch",
+    "is_recommended": true,
+    "is_special": true,
+    "order": 1,
+    "description": "4 X 12",
+    "shredded": "6 X 12"
+  }
+]

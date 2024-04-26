@@ -1,0 +1,130 @@
+[
+  {
+    "id": 1,
+    "name": "Barbell Curl Upper Arms",
+    "image_name": "barbell_curl_upper_arms",
+    "is_recommended": true,
+    "is_special": true,
+    "order": 1,
+    "description": "4 X 12",
+    "shredded": "6 X 12"
+  },
+  {
+    "id": 2,
+    "name": "Dumbbell Biceps Curl Upper Arms",
+    "image_name": "dumbbell_biceps_curl_upper_arms",
+    "is_recommended": true,
+    "is_special": true,
+    "order": 2,
+    "description": "4 X 12",
+    "shredded": "6 X 12"
+  },
+  {
+    "id": 3,
+    "name": "Dumbbell Incline Biceps Curl Upper Arms",
+    "image_name": "dumbbell_incline_biceps_curl_upper_arms",
+    "is_recommended": true,
+    "is_special": true,
+    "order": 3,
+    "description": "4 X 12",
+    "shredded": "6 X 12"
+  },
+  {
+    "id": 4,
+    "name": "EZ Barbell Curl Upper Arms",
+    "image_name": "ez_barbell_curl_upper_arms",
+    "is_recommended": true,
+    "is_special": true,
+    "order": 4,
+    "description": "4 X 12",
+    "shredded": "6 X 12"
+  },
+  {
+    "id": 5,
+    "name": "EZ Barbell Close Grip Preacher Curl Upper Arms",
+    "image_name": "ez_barbell_close_grip_preacher_curl_upper_arms",
+    "is_recommended": true,
+    "is_special": true,
+    "order": 5,
+    "description": "4 X 12",
+    "shredded": "6 X 12"
+  },
+  {
+    "id": 6,
+    "name": "Cable Close Grip Curl Upper Arms",
+    "image_name": "cable_close_grip_curl_upper_arms",
+    "is_recommended": true,
+    "is_special": true,
+    "order": 6,
+    "description": "4 X 12",
+    "shredded": "6 X 12"
+  },
+  {
+    "id": 7,
+    "name": "Dumbbell Alternate Preacher Curl Upper Arms",
+    "image_name": "dumbbell_alternate_preacher_curl_upper_arms",
+    "is_recommended": true,
+    "is_special": true,
+    "order": 7,
+    "description": "4 X 12",
+    "shredded": "6 X 12"
+  },
+  {
+    "id": 8,
+    "name": "Cable One Arm Biceps Curl Version 2 Upper Arms",
+    "image_name": "cable_one_arm_biceps_curl_version_upper_arms",
+    "is_recommended": true,
+    "is_special": true,
+    "order": 8,
+    "description": "4 X 12",
+    "shredded": "6 X 12"
+  },
+  {
+    "id": 9,
+    "name": "Barbell Lying Preacher Curl Upper Arms",
+    "image_name": "barbell_lying_preacher_curl_upper_arms",
+    "is_recommended": false
+  },
+  {
+    "id": 10,
+    "name": "Dumbbell One Arm Prone Curl Upper Arms",
+    "image_name": "dumbbell_one_arm_prone_curl_upper_arms",
+    "is_recommended": false
+  },
+  {
+    "id": 10,
+    "name": "Dumbbell Alternate Biceps Curl",
+    "image_name": "dumbbell_alternate_biceps_curl",
+    "is_recommended": false
+  },
+  {
+    "id": 10,
+    "name": "EZ Barbell Close grip Curl",
+    "image_name": "ez_barbell_close_grip_curl",
+    "is_recommended": false
+  },
+  {
+    "id": 10,
+    "name": "Lever Alternate Biceps Curl",
+    "image_name": "lever_alternate_biceps_curl",
+    "is_recommended": false
+  },
+  {
+    "id": 10,
+    "name": "Cable Overhead Curl",
+    "image_name": "cable_overhead_curl",
+    "is_recommended": false
+  },
+  {
+    "id": 10,
+    "name": "Dumbbell Cross Body Hammer Curl (Version 2)",
+    "image_name": "dumbbell_cross_body_hammer_curl",
+    "is_recommended": false
+  },
+  {
+    "id": 10,
+    "name": "Dumbbell Seated Bicep Curl",
+    "image_name": "dumbbell_seated_bicep_curl",
+    "is_recommended": false
+  }
+]

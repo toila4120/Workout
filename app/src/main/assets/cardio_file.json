@@ -1,0 +1,172 @@
+[
+  {
+    "id": 1,
+    "name": "Double Jump Rope",
+    "image_name": "double_jump_rope",
+    "is_recommended": false,
+    "is_special": false,
+    "order": 1,
+    "description": "4 X 12",
+    "shredded": "6 X 12"
+  },
+  {
+    "id": 1,
+    "name": "Lying Air Cycles",
+    "image_name": "lying_air_cycles",
+    "is_recommended": false,
+    "is_special": false,
+    "order": 2,
+    "description": "4 X 12",
+    "shredded": "6 X 12"
+  },
+  {
+    "id": 1,
+    "name": "Marching On Spot",
+    "image_name": "marching_on_spot",
+    "is_recommended": false,
+    "is_special": false,
+    "order": 3,
+    "description": "4 X 12",
+    "shredded": "6 X 12"
+  },
+  {
+    "id": 1,
+    "name": "Bodyweight Front Plank to Downward Dog",
+    "image_name": "bodyweight_front_plank_to_downward_dog",
+    "is_recommended": false,
+    "is_special": false,
+    "order": 4,
+    "description": "4 X 12",
+    "shredded": "6 X 12"
+  },
+  {
+    "id": 1,
+    "name": "Jump on Fit Box",
+    "image_name": "jump_on_fit_box",
+    "is_recommended": false,
+    "is_special": false,
+    "order": 5,
+    "description": "4 X 12",
+    "shredded": "6 X 12"
+  },
+  {
+    "id": 1,
+    "name": "High Knee Skips",
+    "image_name": "high_knee_skips",
+    "is_recommended": true,
+    "is_special": false,
+    "order": 6,
+    "description": "4 X 12",
+    "shredded": "6 X 12"
+  },
+  {
+    "id": 1,
+    "name": "Jumping Jack",
+    "image_name": "jumping_jack",
+    "is_recommended": true,
+    "is_special": false,
+    "order": 7,
+    "description": "4 X 12",
+    "shredded": "6 X 12"
+  },
+  {
+    "id": 1,
+    "name": "Skips",
+    "image_name": "skips",
+    "is_recommended": false,
+    "is_special": false,
+    "order": 8,
+    "description": "4 X 12",
+    "shredded": "6 X 12"
+  },
+  {
+    "id": 1,
+    "name": "Elliptical Machine Walk",
+    "image_name": "elliptical_machine_walk",
+    "is_recommended": true,
+    "is_special": false,
+    "order": 9,
+    "description": "4 X 12",
+    "shredded": "6 X 12"
+  },
+  {
+    "id": 1,
+    "name": "Walk Elliptical Cross Trainer",
+    "image_name": "walk_elliptical_cross_trainer",
+    "is_recommended": false,
+    "is_special": false,
+    "order": 10,
+    "description": "4 X 12",
+    "shredded": "6 X 12"
+  },
+  {
+    "id": 1,
+    "name": "Stationary Bike Run",
+    "image_name": "stationary_bike_run",
+    "is_recommended": true,
+    "is_special": false,
+    "order": 11,
+    "description": "4 X 12",
+    "shredded": "6 X 12"
+  },
+  {
+    "id": 1,
+    "name": "Stationary Bike Walk",
+    "image_name": "stationary_bike_walk",
+    "is_recommended": false,
+    "is_special": false,
+    "order": 12,
+    "description": "4 X 12",
+    "shredded": "6 X 12"
+  },
+  {
+    "id": 1,
+    "name": "Burpee",
+    "image_name": "burpee",
+    "is_recommended": false,
+    "is_special": false,
+    "order": 13,
+    "description": "4 X 12",
+    "shredded": "6 X 12"
+  },
+  {
+    "id": 1,
+    "name": "Rowing with rowing machine",
+    "image_name": "rowing_with_rowing_machine",
+    "is_recommended": false,
+    "is_special": false,
+    "order": 14,
+    "description": "4 X 12",
+    "shredded": "6 X 12"
+  },
+  {
+    "id": 1,
+    "name": "Run equipment",
+    "image_name": "run_equipment",
+    "is_recommended": true,
+    "is_special": false,
+    "order": 15,
+    "description": "4 X 12",
+    "shredded": "6 X 12"
+  },
+  {
+    "id": 1,
+    "name": "Mountain Climber",
+    "image_name": "mountain_climber",
+    "is_recommended": true,
+    "is_special": false,
+    "order": 16,
+    "description": "4 X 12",
+    "shredded": "6 X 12"
+  },
+  {
+    "id": 1,
+    "name": "Battling Ropes",
+    "image_name": "battling_ropes",
+    "is_recommended": true,
+    "is_special": false,
+    "order": 17,
+    "description": "4 X 12",
+    "shredded": "6 X 12"
+  }
+]

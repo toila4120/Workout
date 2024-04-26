@@ -1,0 +1,160 @@
+[
+  {
+    "id": 10,
+    "name": "Barbell Seated Overhead Triceps Extension",
+    "image_name": "barbell_seated_overhead_triceps_extension",
+    "is_recommended": false
+  },
+  {
+    "id": 10,
+    "name": "Bench Dip (knees bent)",
+    "image_name": "bench_dip_knees_bent",
+    "is_recommended": false
+  },
+  {
+    "id": 10,
+    "name": "Cable Overhead Triceps Extension (rope attachment)",
+    "image_name": "cable_overhead_triceps_extension_rope_attachment",
+    "is_recommended": false
+  },
+  {
+    "id": 10,
+    "name": "Diamond Push up",
+    "image_name": "diamond_push_up",
+    "is_recommended": false
+  },
+  {
+    "id": 10,
+    "name": "Dumbbell Incline Triceps Extension",
+    "image_name": "dumbbell_incline_triceps_extension",
+    "is_recommended": false
+  },
+  {
+    "id": 10,
+    "name": "Dumbbell One Arm Triceps Extension (on bench)",
+    "image_name": "dumbbell_one_arm_triceps_extension_on_bench",
+    "is_recommended": false
+  },
+  {
+    "id": 10,
+    "name": "Dumbbell Seated Bench Extension",
+    "image_name": "dumbbell_seated_bench_extension",
+    "is_recommended": false
+  },
+  {
+    "id": 10,
+    "name": "Dumbbell Standing Triceps Extension",
+    "image_name": "dumbbell_standing_triceps_extension",
+    "is_recommended": false
+  },
+  {
+    "id": 10,
+    "name": "Lever Overhand Triceps Dip",
+    "image_name": "lever_overhand_triceps_dip",
+    "is_recommended": false
+  },
+  {
+    "id": 10,
+    "name": "Triceps Dip",
+    "image_name": "triceps_dip",
+    "is_recommended": false
+  },
+  {
+    "id": 10,
+    "name": "Dumbbell Standing Bent Over Two Arm Triceps Extension",
+    "image_name": "dumbbell_standing_bent_over_two_arm_triceps_extension",
+    "is_recommended": false
+  },
+  {
+    "id": 1,
+    "name": "Barbell Close Grip Bench Press Upper Arms",
+    "image_name": "barbell_close_grip_bench_press_upper_arms",
+    "is_recommended": true,
+    "is_special": true,
+    "order": 1,
+    "description": "4 X 12",
+    "shredded": "6 X 12"
+  },
+  {
+    "id": 2,
+    "name": "Cable Pushdown with rope attachment Upper Arms",
+    "image_name": "cable_pushdown_with_rope_attachment_upper_arms",
+    "is_recommended": true,
+    "is_special": true,
+    "order": 2,
+    "description": "4 X 12",
+    "shredded": "6 X 12"
+  },
+  {
+    "id": 3,
+    "name": "Cable Standing One Arm Triceps Extension Upper Arms",
+    "image_name": "cable_standing_one_arm_triceps_extension_upper_arms",
+    "is_recommended": true,
+    "is_special": true,
+    "order": 3,
+    "description": "4 X 12",
+    "shredded": "6 X 12"
+  },
+  {
+    "id": 4,
+    "name": "EZ Barbell Incline Triceps Extension Upper Arms",
+    "image_name": "ez_barbell_incline_triceps_extension_upper_arms",
+    "is_recommended": true,
+    "is_special": true,
+    "order": 4,
+    "description": "4 X 12",
+    "shredded": "6 X 12"
+  },
+  {
+    "id": 5,
+    "name": "Barbell Incline Close Grip Bench Press Upper Arms",
+    "image_name": "barbell_incline_close_grip_bench_press_upper_arms",
+    "is_recommended": true,
+    "is_special": true,
+    "order": 5,
+    "description": "4 X 12",
+    "shredded": "6 X 12"
+  },
+  {
+    "id": 6,
+    "name": "Cable High Pulley Overhead Tricep Extension Upper Arms",
+    "image_name": "cable_high_pulley_overhead_tricep_extension_upper_arms",
+    "is_recommended": true,
+    "is_special": true,
+    "order": 6,
+    "description": "4 X 12",
+    "shredded": "6 X 12"
+  },
+  {
+    "id": 7,
+    "name": "EZ Bar Lying Close Grip Triceps Extension Behind Head Upper Arms",
+    "image_name": "ez_bar_lying_close_grip_triceps_extension_behind_head_upper_arms",
+    "is_recommended": true,
+    "is_special": true,
+    "order": 7,
+    "description": "4 X 12",
+    "shredded": "6 X 12"
+  },
+  {
+    "id": 8,
+    "name": "EZ Barbell Decline Triceps Extension Upper Arms",
+    "image_name": "ez_barbell_decline_triceps_extension_upper_arms",
+    "is_recommended": true,
+    "is_special": true,
+    "order": 8,
+    "description": "4 X 12",
+    "shredded": "6 X 12"
+  },
+  {
+    "id": 9,
+    "name": "Dumbbell Close Grip Press Upper Arms",
+    "image_name": "dumbbell_close_grip_press_upper_arms",
+    "is_recommended": false
+  },
+  {
+    "id": 10,
+    "name": "Barbell Decline Close Grip To Skull Press Upper Arms",
+    "image_name": "barbell_decline_close_grip_to_skull_press_upper_arms",
+    "is_recommended": false
+  }
+]

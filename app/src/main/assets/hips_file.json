@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "name": "Barbell Deadlift Hips FIX",
+    "image_name": "barbell_deadlift_hips_fix",
+    "is_recommended": true,
+    "is_special": true,
+    "order": 1,
+    "description": "4 X 12",
+    "shredded": "6 X 12"
+  },
+  {
+    "id": 2,
+    "name": "Barbell Lying Lifting on hip Hips",
+    "image_name": "barbell_lying_lifting_on_hip_hips",
+    "is_recommended": true,
+    "is_special": true,
+    "order": 2,
+    "description": "4 X 12",
+    "shredded": "6 X 12"
+  },
+  {
+    "id": 3,
+    "name": "Barbell Rack Pull Hips",
+    "image_name": "barbell_rack_pull_hips",
+    "is_recommended": false,
+    "is_special": false,
+    "order": 3,
+    "description": "4 X 12",
+    "shredded": "6 X 12"
+  },
+  {
+    "id": 4,
+    "name": "Barbell Sumo Deadlift Hips",
+    "image_name": "barbell_sumo_deadlift_hips",
+    "is_recommended": true,
+    "is_special": true,
+    "order": 4,
+    "description": "4 X 12",
+    "shredded": "6 X 12"
+  },
+  {
+    "id": 5,
+    "name": "Sled Hack Squat Hips",
+    "image_name": "sled_hack_squat_hips",
+    "is_recommended": false,
+    "is_special": false,
+    "order": 5,
+    "description": "4 X 12",
+    "shredded": "6 X 12"
+  },
+  {
+    "id": 6,
+    "name": "Vertical Leg Raise on parallel bars Hips",
+    "image_name": "vertical_leg_raise_on_parallel_bars_hips",
+    "is_recommended": false,
+    "is_special": false,
+    "order": 6,
+    "description": "4 X 12",
+    "shredded": "6 X 12"
+  },
+  {
+    "id": 7,
+    "name": "Lever Hip Extension VERSION 2 Hips",
+    "image_name": "lever_hip_extension_version_hips",
+    "is_recommended": false,
+    "is_special": false,
+    "order": 7,
+    "description": "4 X 12",
+    "shredded": "6 X 12"
+  },
+  {
+    "id": 8,
+    "name": "Cable Pull Through with rope Hip",
+    "image_name": "cable_pull_through_with_rope_hip",
+    "is_recommended": true,
+    "is_special": true,
+    "order": 8,
+    "description": "4 X 12",
+    "shredded": "6 X 12"
+  },
+  {
+    "id": 9,
+    "name": "Barbell Bench Squat Hips",
+    "image_name": "barbell_bench_squat_hips",
+    "is_recommended": false,
+    "is_special": false,
+    "order": 9,
+    "description": "4 X 12",
+    "shredded": "6 X 12"
+  },
+  {
+    "id": 10,
+    "name": "Barbell Front Squat Hips FIX",
+    "image_name": "barbell_front_squat_hips_fix",
+    "is_recommended": false,
+    "is_special": false,
+    "order": 10,
+    "description": "4 X 12",
+    "shredded": "6 X 12"
+  },
+  {
+    "id": 11,
+    "name": "Barbell Romanian Deadlift Hips",
+    "image_name": "barbell_romanian_deadlift_hips",
+    "is_recommended": false,
+    "is_special": false,
+    "order": 11,
+    "description": "4 X 12",
+    "shredded": "6 X 12"
+  },
+  {
+    "id": 12,
+    "name": "Decline Sit up Hips",
+    "image_name": "decline_sit_up_hips",
+    "is_recommended": false,
+    "is_special": false,
+    "order": 12,
+    "description": "4 X 12",
+    "shredded": "6 X 12"
+  },
+  {
+    "id": 13,
+    "name": "Hanging Straight Leg Raise Hips",
+    "image_name": "hanging_straight_leg_raise_hips",
+    "is_recommended": false,
+    "is_special": false,
+    "order": 13,
+    "description": "4 X 12",
+    "shredded": "6 X 12"
+  },
+  {
+    "id": 14,
+    "name": "Cable Standing Hip Extension Hips",
+    "image_name": "cable_standing_hip_extension_hips",
+    "is_recommended": true,
+    "is_special": true,
+    "order": 14,
+    "description": "4 X 12",
+    "shredded": "6 X 12"
+  },
+  {
+    "id": 15,
+    "name": "Lunge Hips",
+    "image_name": "lunge_hips",
+    "is_recommended": false,
+    "is_special": false,
+    "order": 15,
+    "description": "4 X 12",
+    "shredded": "6 X 12"
+  },
+  {
+    "id": 16,
+    "name": "Sled 45 degrees One Leg Press Hips",
+    "image_name": "sled_degrees_one_leg_press_hips",
+    "is_recommended": false,
+    "is_special": false,
+    "order": 16,
+    "description": "4 X 12",
+    "shredded": "6 X 12"
+  },
+  {
+    "id": 17,
+    "name": "Sled 45 Leg Press Hips",
+    "image_name": "sled_leg_press_hips",
+    "is_recommended": false,
+    "is_special": false,
+    "order": 17,
+    "description": "4 X 12",
+    "shredded": "6 X 12"
+  },
+  {
+    "id": 18,
+    "name": "Step up Hips",
+    "image_name": "step_up_hips",
+    "is_recommended": false,
+    "is_special": false,
+    "order": 18,
+    "description": "4 X 12",
+    "shredded": "6 X 12"
+  },
+  {
+    "id": 19,
+    "name": "Dumbbell Step up Hips",
+    "image_name": "dumbbell_step_up_hips",
+    "is_recommended": false,
+    "is_special": false,
+    "order": 19,
+    "description": "4 X 12",
+    "shredded": "6 X 12"
+  },
+  {
+    "id": 20,
+    "name": "Lying Scissor Kick Hips",
+    "image_name": "lying_scissor_kick_hips",
+    "is_recommended": false,
+    "is_special": false,
+    "order": 20,
+    "description": "4 X 12",
+    "shredded": "6 X 12"
+  },
+  {
+    "id": 21,
+    "name": "Lying Hip Straight Leg Raise Hips",
+    "image_name": "lying_hip_straight_leg_raise_hips",
+    "is_recommended": false,
+    "is_special": false,
+    "order": 21,
+    "description": "4 X 12",
+    "shredded": "6 X 12"
+  },
+  {
+    "id": 22,
+    "name": "Dumbbell Lunge Hips",
+    "image_name": "dumbbell_lunge_hips",
+    "is_recommended": true,
+    "is_special": true,
+    "order": 22,
+    "description": "4 X 12",
+    "shredded": "6 X 12"
+  },
+  {
+    "id": 23,
+    "name": "Bench Full Squat female Hips",
+    "image_name": "bench_full_squat_female_hips",
+    "is_recommended": false,
+    "is_special": false,
+    "order": 23,
+    "description": "4 X 12",
+    "shredded": "6 X 12"
+  },
+  {
+    "id": 24,
+    "name": "Barbell Step up female Hips",
+    "image_name": "barbell_step_up_female_hips",
+    "is_recommended": false,
+    "is_special": false,
+    "order": 24,
+    "description": "4 X 12",
+    "shredded": "6 X 12"
+  }
+]

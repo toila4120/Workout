@@ -1,0 +1,208 @@
+[
+  {
+    "id": 1,
+    "name": "Barbell Standing Close Grip Military Press Shoulders",
+    "image_name": "barbell_standing_close_grip_military_press_shoulders",
+    "is_recommended": true,
+    "is_special": true,
+    "order": 1,
+    "description": "4 X 12",
+    "shredded": "6 X 12"
+  },
+  {
+    "id": 2,
+    "name": "Dumbbell Seated Shoulder Press Shoulders",
+    "image_name": "dumbbell_seated_shoulder_press_shoulders",
+    "is_recommended": true,
+    "is_special": true,
+    "order": 2,
+    "description": "4 X 12",
+    "shredded": "6 X 12"
+  },
+  {
+    "id": 3,
+    "name": "Lever Seated Shoulder Press Shoulders",
+    "image_name": "lever_seated_shoulder_press_shoulders",
+    "is_recommended": true,
+    "is_special": true,
+    "order": 3,
+    "description": "4 X 12",
+    "shredded": "6 X 12"
+  },
+  {
+    "id": 4,
+    "name": "Dumbbell Front Raise Shoulders",
+    "image_name": "dumbbell_front_raise_shoulders",
+    "is_recommended": true,
+    "is_special": true,
+    "order": 4,
+    "description": "4 X 12",
+    "shredded": "6 X 12"
+  },
+  {
+    "id": 5,
+    "name": "Dumbbell Lateral Raise shoulder",
+    "image_name": "dumbbell_lateral_raise_shoulder",
+    "is_recommended": true,
+    "is_special": true,
+    "order": 5,
+    "description": "4 X 12",
+    "shredded": "6 X 12"
+  },
+  {
+    "id": 6,
+    "name": "Barbell Upright Row shoulder",
+    "image_name": "barbell_upright_row_shoulder",
+    "is_recommended": true,
+    "is_special": true,
+    "order": 6,
+    "description": "4 X 12",
+    "shredded": "6 X 12"
+  },
+  {
+    "id": 7,
+    "name": "Cable One Arm Lateral Raise Shoulders",
+    "image_name": "cable_one_arm_lateral_raise_shoulders",
+    "is_recommended": true,
+    "is_special": true,
+    "order": 7,
+    "description": "4 X 12",
+    "shredded": "6 X 12"
+  },
+  {
+    "id": 8,
+    "name": "Dumbbell Rear Fly Shoulders",
+    "image_name": "dumbbell_rear_fly_shoulders",
+    "is_recommended": true
+  },
+  {
+    "id": 9,
+    "name": "Dumbbell Rear Lateral Raise Shoulders",
+    "image_name": "dumbbell_rear_lateral_raise_shoulders",
+    "is_recommended": true,
+    "is_special": true,
+    "order": 8,
+    "description": "4 X 12",
+    "shredded": "6 X 12"
+  },
+  {
+    "id": 10,
+    "name": "Barbell Front Raise Shoulders",
+    "image_name": "barbell_front_raise_shoulders",
+    "is_recommended": true
+  },
+  {
+    "id": 11,
+    "name": "Cable Cross over Revers Fly Shoulders",
+    "image_name": "cable_cross_over_revers_fly_shoulders",
+    "is_recommended": false
+  },
+  {
+    "id": 12,
+    "name": "Cable Forward Raise Shoulders",
+    "image_name": "cable_forward_raise_shoulders",
+    "is_recommended": false
+  },
+  {
+    "id": 13,
+    "name": "Cable Rear Delt Row with rope Shoulders",
+    "image_name": "cable_rear_delt_row_with_rope_shoulders",
+    "is_recommended": false
+  },
+  {
+    "id": 14,
+    "name": "Lever Seated Reverse Fly parallel grip shoulder",
+    "image_name": "lever_seated_reverse_fly_parallel_grip_shoulder",
+    "is_recommended": false
+  },
+  {
+    "id": 14,
+    "name": "Barbell Seated Behind Head Military Press",
+    "image_name": "barbell_seated_behind_head_military_press",
+    "is_recommended": false
+  },
+  {
+    "id": 14,
+    "name": "Barbell Seated Overhead Press",
+    "image_name": "barbell_seated_overhead_press",
+    "is_recommended": false
+  },
+  {
+    "id": 14,
+    "name": "Barbell Upright Row",
+    "image_name": "barbell_upright_row",
+    "is_recommended": false
+  },
+  {
+    "id": 14,
+    "name": "Battling Ropes",
+    "image_name": "battling_ropes",
+    "is_recommended": false
+  },
+  {
+    "id": 14,
+    "name": "Cable Standing Face Pull (with rope)",
+    "image_name": "cable_standing_face_pull_with_rope",
+    "is_recommended": false
+  },
+  {
+    "id": 14,
+    "name": "Dumbbell Front Raise II",
+    "image_name": "dumbbell_front_raise_two",
+    "is_recommended": false
+  },
+  {
+    "id": 14,
+    "name": "Dumbbell Rear Fly",
+    "image_name": "dumbbell_rear_fly",
+    "is_recommended": false
+  },
+  {
+    "id": 14,
+    "name": "Dumbbell Standing Palms In Press",
+    "image_name": "dumbbell_standing_palms_in_press",
+    "is_recommended": false
+  },
+  {
+    "id": 14,
+    "name": "Lever Lateral Raise",
+    "image_name": "lever_lateral_raise",
+    "is_recommended": false
+  },
+  {
+    "id": 14,
+    "name": "Lever Military Press (plate loaded)",
+    "image_name": "lever_military_press_plate_loaded",
+    "is_recommended": false
+  },
+  {
+    "id": 14,
+    "name": "Dumbbell Arnold Press",
+    "image_name": "dumbbell_arnold_press",
+    "is_recommended": false
+  },
+  {
+    "id": 14,
+    "name": "Dumbbell Single Arm Underhand Front Raise",
+    "image_name": "dumbbell_single_arm_underhand_front_raise",
+    "is_recommended": false
+  },
+  {
+    "id": 14,
+    "name": "Dumbbell Prone Rear Delt Swing",
+    "image_name": "dumbbell_prone_rear_delt_swing",
+    "is_recommended": false
+  },
+  {
+    "id": 14,
+    "name": "Dumbbell Standing Bent Arm Lateral raise",
+    "image_name": "dumbbell_standing_bent_arm_lateral_raise",
+    "is_recommended": false
+  },
+  {
+    "id": 14,
+    "name": "Dumbbell Bent Over Face Pull",
+    "image_name": "dumbbell_bent_over_face_pull",
+    "is_recommended": false
+  }
+]

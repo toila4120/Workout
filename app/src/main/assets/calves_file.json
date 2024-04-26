@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "Lever Seated Calf Raise (plate loaded)",
+    "image_name": "lever_seated_calf_raise_plate_loaded",
+    "is_recommended": true,
+    "is_special": true,
+    "order": 1,
+    "description": "4 X 12",
+    "shredded": "6 X 12"
+  },
+  {
+    "id": 1,
+    "name": "Lever Standing Calf Raise",
+    "image_name": "lever_standing_calf_raise",
+    "is_recommended": true,
+    "is_special": true,
+    "order": 1,
+    "description": "4 X 12",
+    "shredded": "6 X 12"
+  },
+  {
+    "id": 1,
+    "name": "Smith Calf Raise (version 2)",
+    "image_name": "smith_calf_raise_version",
+    "is_recommended": true,
+    "is_special": true,
+    "order": 1,
+    "description": "4 X 12",
+    "shredded": "6 X 12"
+  },
+  {
+    "id": 1,
+    "name": "Sled Calf Press On Leg Press",
+    "image_name": "sled_calf_press_on_leg_press",
+    "is_recommended": true,
+    "is_special": true,
+    "order": 1,
+    "description": "4 X 12",
+    "shredded": "6 X 12"
+  },
+  {
+    "id": 1,
+    "name": "Elevated Standing Calf Raise",
+    "image_name": "elevated_standing_calf_raise",
+    "is_recommended": true,
+    "is_special": true,
+    "order": 1,
+    "description": "4 X 12",
+    "shredded": "6 X 12"
+  }
+]
